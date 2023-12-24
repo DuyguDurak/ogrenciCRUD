@@ -46,10 +46,10 @@ namespace _24_12_2023_2
             OgrenciList();
             Console.ReadKey();
         }
-        static public string OgrenciEkle(string ogrenciAd)
+        static public void OgrenciEkle(string ogrenciAd)
         {
             _ogrenciAd.Add(ogrenciAd);
-            return ogrenciAd;
+        
         }
         static public void OgrenciList()
         {
@@ -60,7 +60,7 @@ namespace _24_12_2023_2
             }
 
         }
-        static public string OgrenciGuncelle(string guncellenecekisim, string guncelisim)
+        static public void OgrenciGuncelle(string guncellenecekisim, string guncelisim)
         {
             for (int i = 0; i < _ogrenciAd.Count; i++)
             {
@@ -76,7 +76,7 @@ namespace _24_12_2023_2
             guncellenecekisim.Replace(guncellenecekisim, guncelisim);
             _ogrenciAd.Remove(guncellenecekisim);
             _ogrenciAd.Add(guncelisim);*/
-            return guncelisim;
+      
         }
         static public void OgrenciDelete(string ogrenciAd)
         {
