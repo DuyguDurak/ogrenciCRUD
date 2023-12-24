@@ -1,0 +1,8 @@
+C:\Users\smart.konuk\Desktop\2\24-12-2023\24-12-2023-2\bin\Debug\24-12-2023-2.exe.config
+C:\Users\smart.konuk\Desktop\2\24-12-2023\24-12-2023-2\bin\Debug\24-12-2023-2.exe
+C:\Users\smart.konuk\Desktop\2\24-12-2023\24-12-2023-2\bin\Debug\24-12-2023-2.pdb
+C:\Users\smart.konuk\Desktop\2\24-12-2023\24-12-2023-2\obj\Debug\24-12-2023-2.csproj.AssemblyReference.cache
+C:\Users\smart.konuk\Desktop\2\24-12-2023\24-12-2023-2\obj\Debug\24-12-2023-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\smart.konuk\Desktop\2\24-12-2023\24-12-2023-2\obj\Debug\24-12-2023-2.csproj.CoreCompileInputs.cache
+C:\Users\smart.konuk\Desktop\2\24-12-2023\24-12-2023-2\obj\Debug\24-12-2023-2.exe
+C:\Users\smart.konuk\Desktop\2\24-12-2023\24-12-2023-2\obj\Debug\24-12-2023-2.pdb
